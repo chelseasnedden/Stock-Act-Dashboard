@@ -15,3 +15,5 @@
 Fernando, J. (2021, September 11). What Is the STOCK Act? Investopedia. Retrieved from: [https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp](https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp)
 
 Williams, D. (2021). Senate Stock Dashboard. Github. Retrieved from: [https://github.com/DeRoun/SenateStockDashboard](https://github.com/DeRoun/SenateStockDashboard)
+
+https://github.com/neelsomani/senator-filings
