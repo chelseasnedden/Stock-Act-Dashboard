@@ -1,6 +1,7 @@
 # STOCK Act Dashboard
 ----------------------------------------------------------------------------------------
+## This Dashboard is intended to visualize the financial disclosure requirements of this Legislation and will be amended to include a live API to track new Disclosures for public trading information.
 
-## The STOCK Act was introduced into Congress in January 2012 and was passed in April 2012 with substantial bipartisan support. The purpose of the STOCK Act was to ensure that the general prohibition against insider trading applies to members of Congress and other federal employees, including the president, vice president, and certain other members of the executive branch.
+### Background: The STOCK Act was introduced into Congress in January 2012 and was passed in April 2012 with substantial bipartisan support. The purpose of the STOCK Act was to ensure that the general prohibition against insider trading applies to members of Congress and other federal employees, including the president, vice president, and certain other members of the executive branch.
 
-## The STOCK Act was passed with overwhelming bipartisan support. In the Senate, it passed by a 96-3 vote. Its support in the House of Representatives was even more widespread, passing with a margin of 417-2 votes.
+### The STOCK Act was passed with overwhelming bipartisan support. In the Senate, it passed by a 96-3 vote. Its support in the House of Representatives was even more widespread, passing with a margin of 417-2 votes.
