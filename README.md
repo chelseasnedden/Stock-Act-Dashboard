@@ -14,4 +14,4 @@
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
 
-Fernando, J. (2021, September 11). What Is the STOCK Act? Investopedia. Retrieved from: [https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp](Fernando, J. (2021, September 11). What Is the STOCK Act? Investopedia. https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp)
+Fernando, J. (2021, September 11). What Is the STOCK Act? Investopedia. Retrieved from: [https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp](https://www.investopedia.com/terms/s/stop-trading-on-congressional-knowledge-act.asp)
